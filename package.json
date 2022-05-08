@@ -1,0 +1,15 @@
+{
+  "name": "ejerciciosconovatec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicios con jest.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
